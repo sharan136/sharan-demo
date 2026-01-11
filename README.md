@@ -1,4 +1,5 @@
 # sharan-demo
+
 This is my first git repository.
 <br>
-Author-  Sharanpreet Kaur
+Author-  Sharanpreet Kaur Phaggu
